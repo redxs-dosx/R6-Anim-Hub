@@ -81,3 +81,11 @@ loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-FE-Hawk-Guy
    -- The function that takes place when the button is pressed
    end,
 })
+
+local Button = Tab:CreateButton({
+   Name = "Jerk Off",
+   Callback = function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/imalwaysad/universal-gui/refs/heads/main/jerk%20off%20r6"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
